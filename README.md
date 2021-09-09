@@ -1,8 +1,6 @@
-# Episode 144 - Firestore Group Chat
+Firestore Group and 1:1 Chat
 
-[Let's Chat on the Live Demo](https://firestore-megachat.firebaseapp.com)
-
-Build a realtime group chat app with Firestore.
+Build a realtime group and 1:1 chat app with Firestore.
 
 ## Setup
 
