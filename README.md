@@ -1,4 +1,4 @@
-Firestore Group and 1:1 Chat
+Firestore Group and 1:1 Chat System
 
 Build a realtime group and 1:1 chat app with Firestore.
 
