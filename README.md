@@ -1,2 +1,12 @@
-# ChatApp
-A web application which allows logged in users to chat with each other. Created using Google Cloud Platform (GCP) services such as Firebase, Firestore, and Cloud Run. Deployed using Docker
+# Episode 144 - Firestore Group Chat
+
+[Let's Chat on the Live Demo](https://firestore-megachat.firebaseapp.com)
+
+Build a realtime group chat app with Firestore.
+
+## Setup
+
+`git clone <repo>`
+`npm install`
+
+Add your crendentials to the Angular environment files, then replace `configPlaceholder` with `environment.firebase` in the _app.module.ts_
